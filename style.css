@@ -1,11 +1,32 @@
-.links {
-    display: inline;
+.sitebody {
+    background-color: #1F2937;
 }
+
+.header {
+    color: white;
+    font-family: 'Roboto';
+    display: flex;
+}
+
 
 .headerlogo{
     display: inline;
+   margin-left: 70px;
 }
 
 .ullist {
     display: inline;
+    margin-left: 800px;
 }
+
+.headerlogo,
+.ullist {
+    flex: 1;
+}
+
+.links {
+    display: inline;
+    margin: 20px;
+}
+
+
