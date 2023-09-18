@@ -3,20 +3,23 @@
 }
 
 .header {
-    color: white;
+    color: #F9FAF8;
+    font-size: 24px;
     font-family: 'Roboto';
     display: flex;
 }
 
 
 .headerlogo{
-    display: inline;
+   display: inline;
    margin-left: 70px;
 }
 
 .ullist {
     display: inline;
     margin-left: 800px;
+    color: #E5E7EB;
+    font-size: 18px;
 }
 
 .headerlogo,
