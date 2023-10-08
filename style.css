@@ -85,3 +85,14 @@ img {
     text-align: center;
     font-family: 'Roboto';
 }
+
+.mainbodypics {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+#pics {
+    border: 5px solid #3882F6;
+    border-radius: 10px;
+}
