@@ -13,15 +13,23 @@ body {
     display: flex;
 }
 
+#logopic {
+    width: 150px;
+    height: 100px;
+    margin-left: 50px;
+}
 
-.headerlogo{
-   display: inline;
-   margin-left: 70px;
+a:link {
+    color: orange;
+}
+
+a:visited {
+    color: orangered;
 }
 
 .ullist {
     display: inline;
-    margin-left: 800px;
+    margin-left: 1500px;
     color: #E5E7EB;
     font-size: 18px;
 }
@@ -39,6 +47,8 @@ body {
     margin-top: 100px;
     margin-right: 400px;
     margin-left: 400px;
+    display: inline;
+    margin-bottom: 500px;
 }
 
 .textcontainer {
