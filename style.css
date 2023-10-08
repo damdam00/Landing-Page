@@ -37,6 +37,7 @@ body {
 
 .mainheader {
     margin-top: 100px;
+    margin-right: 400px;
     margin-left: 400px;
 }
 
@@ -49,6 +50,7 @@ body {
     display: inline-block;
     margin-right: 100px;
 }
+
 
 #text {
     color: #F9FAF8;
@@ -64,6 +66,7 @@ body {
 
 button {
     background-color: #3882F6;
+    border-radius: 10px;
 }
 
 #text, #secondarytext {
@@ -84,6 +87,8 @@ img {
 #randominfo {
     text-align: center;
     font-family: 'Roboto';
+    font-size: 36px;
+    color: #1F2937;
 }
 
 .mainbodypics {
@@ -95,4 +100,13 @@ img {
 #pics {
     border: 5px solid #3882F6;
     border-radius: 10px;
+}
+
+.imgtext {
+    text-align: center;
+    font-family: 'Roboto';
+}
+
+.quotesection {
+    background-color: #E5E7EB;
 }
