@@ -152,8 +152,8 @@ img {
 
 .actionsection {
     background-color: #F9FAF8;
-    padding-top: 15px;
-    padding-bottom: 120px;
+    padding-top: 70px;
+    padding-bottom: 70px;
 }
 
 .calltoaction {
@@ -177,5 +177,11 @@ img {
     background-color: #3882F6;
     border-radius: 10px;
     color: #F9FAF8;
+    font-family: 'Roboto';
+}
+
+.footer {
+    color: #F9FAF8;
+    text-align: center;
     font-family: 'Roboto';
 }
